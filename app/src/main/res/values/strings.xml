@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="pindah_dengan_data">pindah_dengan_data</string>
+    <string name="pinda_aktiviti">pinda aktiviti</string>
+    <string name="ini_move_data">ini move data</string>
+    <string name="pindah_data_perslable">pindah data perslable</string>
+    <string name="perslable">perslable</string>
+    <string name="telepon_polisi" />
+</resources>
